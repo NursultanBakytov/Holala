@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412409393325",
+    "project_id": "holala-92178",
+    "storage_bucket": "holala-92178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412409393325:android:e6da0689618573ab3a9624",
+        "android_client_info": {
+          "package_name": "com.company.HOlala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412409393325-l6rm0mhl7k3demvhte488n8tpfjlanfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.HOlala",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "412409393325-c2bfgbb57u1hqg9sbv4p1qfavt8gjbq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgb5sBC4fn-HwWuZ6VeSzrhexZ2qHNw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412409393325-c2bfgbb57u1hqg9sbv4p1qfavt8gjbq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
